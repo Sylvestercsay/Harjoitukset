@@ -39,6 +39,5 @@ bensa.kiihdytä(120)
 sahko.aja(3)
 bensa.aja(3)
 
-# Print kilometer counters
 print(f"Sähkoäuto {sahko.rekisteritunnus} ajomatka: {sahko.matka} km")
 print(f"Bensiiniauto {bensa.rekisteritunnus} ajomatka: {bensa.matka} km")
